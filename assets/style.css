@@ -16,6 +16,9 @@ body{
     font-family: var(--primary-font);
 }
 
-h1{
-    font-size: 30px; 
+h1,
+h2,
+h3 {
+    font-family: var(--secondary-font);
+    color: var(--primary-color);
 }
